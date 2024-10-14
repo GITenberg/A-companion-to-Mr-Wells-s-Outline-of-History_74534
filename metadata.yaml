@@ -1,0 +1,34 @@
+_repo: A-companion-to-Mr-Wells-s-Outline-of-History_74534
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Belloc, Hilaire
+    aliases:
+    - Belloc, Joseph Hilaire Pierre
+    - Belloc, H.
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: https://en.wikipedia.org/wiki/Hilaire_Belloc
+description: ''
+gutenberg_issued: '2024-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74534'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/wu.89068571272
+pgterms:marc905: 20230418062521belloc
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Richard Tonsing, Aaron Adrignola, Tim Lindell, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bEcclesiastical Supply Association, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A companion to Mr. Wells's "Outline of History"
+url: http://www.gutenberg.org/ebooks/74534
